@@ -1,0 +1,19 @@
+.container{
+width: 50%;
+justify-content: center;
+align-items: center;
+margin: 60px;
+padding: 60px;
+}
+.options{
+display: flex;
+align-items: center;
+}
+.group1 , .group2{
+    margin: 10px;
+    padding:5px 10px 0 0;
+}
+.group1 > div , .group2 > div {
+    margin: 5px;
+    padding: 5px;
+}
